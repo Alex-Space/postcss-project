@@ -1,0 +1,13 @@
+$some: #333;
+
+body {
+  display: flex;
+  background: $some;
+  border-radius: 20p<x;
+  box-sizing: border-box;
+  transition: all 0.4s;
+
+  a {
+    transition: all 0.3s;
+  }
+}
